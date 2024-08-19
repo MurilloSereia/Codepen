@@ -1,0 +1,74 @@
+// function tabua(num){
+//  c=0 
+//   while(c < 10){
+//     c++
+//     console.log(num + 'x' + c + '=' + num * c )
+//   }  
+// } 
+
+//===================================================
+// function calcular(ri){
+// cc=0
+//   while (cc < 100){
+//     cc++
+//   console.log(ri=ri+cc)
+//   }
+// }
+// calcular(0)
+//===================================================
+// function n(s){
+//   valorf=s.length
+//   soma=0
+//   e=0
+//   while(e < valorf){
+//     soma+=parseInt(s[e])
+//     e++
+//   }
+//   console.log(soma)
+// }
+// n(prompt('Numero escolhido:'))
+//===================================================
+ 
+// function nacci(r){
+//   r=0
+//   numero1=0
+//   numero2=1
+//   fibo=0
+ 
+//   while(r!=n){
+//     fibo=numero1+numero2
+//     numero1=numero2
+//     numero2=fibo
+//     r=r-1
+//     console.log(fibo)
+//   }
+// }
+// nacci (prompt("Digite um numero para calcular a sequência de Fibonacci"))
+ 
+//===================================================
+ 
+// function inverter(inv) {
+//     stringInvertida = ''
+//     i = inv.length - 1 
+//     while (i >= 0) {
+//         stringInvertida += inv[i]
+//         i--
+//     }
+//     console.log(inverter)
+// }
+// inverter (prompt('Digite uma frase para inverter:'))
+ 
+//===================================================
+ 
+// function escolhida(y){
+
+//   while(y!=0){
+//     if (y=1){
+//     }else if (x=2){
+//     }else if (x=3){
+//     }else if (x=4){
+//     }else if (x=5){
+//     }else console.log('Opção invalida')
+//   }
+// }
+// escolhida (prompt('Escolha um numero de 1 a 5. para encerrar digite 0 '))
